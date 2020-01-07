@@ -1,0 +1,374 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+body, html {
+ width: 100%;	
+  height: 100%;
+  margin: 0;
+  overflow: initial;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.static-top {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+}
+
+.bgimage {
+  width:100%;
+  height:500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  
+}
+.bgimage h5 {
+  color:#fff;
+  text-shadow:2px 2px #333;
+}
+
+h1.head2 {
+    color: #fff;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #63c52c!important;
+    border-color: #63c52c!important;
+    padding: 10px 45px;
+  
+}
+section.menu2 {
+    width: 87%;
+    height: 577px;
+    border: 2px solid #fff;
+    background: url(../images/white-cup.png);
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+    margin-top: 7%;
+    position: absolute;
+}
+
+h4.head12 {
+    font-family: 'Pacifico', cursive;
+}
+section.menu3 {
+    width: 100%;
+    height: 577px;
+    border: 2px solid #fff;
+    background: url(../images/coffee.png);
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+    margin-top: 52%;
+}
+
+h4.head-1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 41px;
+    color: #fff;
+    padding-left: 115px;
+    padding-top: 38px;
+}
+p.head-two {
+    color: #fff;
+    font-size: 20px;
+    padding-top: 28px;
+    padding-left: 122px;
+}
+h1.borderimg {
+    color: #63c52c;
+    margin-left: 10%;
+    margin-top: 5%;
+    border-bottom: 10px solid transparent;
+     padding: 10px;
+    border-image: url(border.png) 30 stretch;
+}
+p.text {
+	padding-left: 147px;
+	padding-top: 6px
+    
+}
+
+.btn-diffr {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 11px 152px;
+    text-align: center;
+    font-size: 14px;
+    margin: 1px 9px;
+    transition: 0.3s;
+}
+.full {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 11px 103px;
+    text-align: center;
+    font-size: 12px;
+    margin: 3px 10px;
+    transition: 0.3s;
+    letter-spacing: 0.2em;
+    margin-top: 15px;
+}
+.btn-diffr:hover {
+  background-color: #3e8e41;
+  color: white;
+}
+.full:hover {
+  background-color: #3e8e41;
+  color: white;
+}
+p.text2 {
+    margin-top: 2%;
+}                   
+.news {
+    font-size: 20px;
+    color:  #63c52c;
+}   
+p.last {
+    margin-top: 10px;
+}
+p.number {
+    margin-top: 10px;
+}
+p#email {
+    margin-top: 10px;
+}
+section.menu7 {
+    margin-top: 60px;
+}
+section.menu8 {
+    width: 100%;
+    height: 231px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #333;
+}
+h1.news {
+    letter-spacing: 0.2em;
+}
+
+.fa {
+    padding: 12px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 10px;
+}
+.fa:hover {
+    opacity: 0.7;
+    background-color: #63c52c;
+}
+.fa-facebook {
+  background: #6d6767;
+  color: #fff;
+}
+.fa-twitter {
+  background: #6d6767;
+  color: #fff;
+  overflow: hidden;
+
+}
+.fa-youtube {
+  background: #6d6767;
+  color: #fff;
+}
+.fa-instagram {
+  background: #6d6767;
+  color: white;
+}
+ul.icon {
+    display: inline-flex;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 12%;s
+}
+.banner-text {
+    text-align: center;
+    padding-top: 10%;
+}
+
+h4.head12 {
+    font-family: 'Pacifico', cursive;
+    padding-left: 49px;
+    font-size: 36px;
+}
+p.head21 {
+	padding-top: 10px;
+	padding-left: 33px;
+}
+p.head31 {
+	padding-left: 35px;
+	padding-top: 18px;
+}
+h1.colored-text {
+    color: #63c52c;
+    font-family: 'Kaushan Script', cursive;
+    padding-top: 76px;
+    padding-left: 236px;
+}
+.Brand {
+    font-family: 'Kaushan Script', cursive;
+    
+}
+p.head-2 {
+    padding-left: 123px;
+    padding-top: 17px;
+}
+
+p.head-last {
+	padding-left: 515px;
+	padding-top: 49px;
+   }
+section.menu6 {
+    padding-left: 103px;
+    padding-top: 8px;
+}
+section.menu7 {
+    padding-top: 65px;
+    padding-left: 94px;
+    background-color: #333;
+    color: #fff;
+}
+.social-icons {
+    
+    padding-left: 386px;
+}
+p.head3 {
+	padding-left: 6px;
+	padding-top: 49px;
+}
+.column2-section{
+    padding-top:8%;
+}
+.powred-img {
+    margin: 38px 0px 0px 0px;
+}
+
+@media (min-width: 768px) {
+.carousel-multi-item-2 .col-md-3 {
+float: left;
+width: 25%;
+max-width: 100%; } 
+}
+
+.carousel-multi-item-2 .card img {
+border-radius: 2px; }
+
+.controls-top {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: -webkit-transform .2s ease-in-out;
+    transition: transform .2s ease-in-out;
+    transition: transform .2s ease-in-out,-webkit-transform .2s ease-in-out;
+}
+/*resposive work start*/
+@media screen and (max-width:996px){
+
+h1.colored-text {
+    color: #63c52c;
+    font-family: 'Kaushan Script', cursive;
+    padding-top: 32px;
+    padding-left: 0px;
+}
+
+h4.head-1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 41px;
+    color: #fff;
+    padding-left: 42px;
+    padding-top: 38px;
+}
+p.head-two {
+    color: #fff;
+    font-size: 12px;
+    padding-top: 28px;
+    padding-left: 42px;
+}
+p.head-2 {
+    padding-left: 70px;
+    padding-top: 17px;
+}
+.Brand {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+
+.pictures2 {
+    padding-top: 50px;
+}
+.pictures3 {
+    padding-top: 50px;
+}
+.picture4 {
+    padding-top: 50px;
+}
+.menu5 {
+    padding-top: 28px;
+    padding-left: 110px;
+}
+p.head-last {
+    padding-top: 49px;
+    padding-left: 0%;
+}
+section.menu6 {
+    padding-left: 37px;
+    padding-top: 42px;
+}
+button.btn-diffr {
+    padding: 10px 90px 15px 108px;
+    text-align: center;
+}
+.full {
+    padding: 12px 50px 17px 49px;
+    margin-left: 10px;
+}
+.social-icons {
+    padding-top: 74px;
+    padding-left: 3px;
+}
+h4.head12 {
+    font-family: 'Pacifico', cursive;
+    padding-left: 33px;
+    font-size: 36px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 60px;
+    padding-bottom: 241px;
+    color: #fff;
+    text-align: center;
+}
+section.menu3 {
+    width: 100%;
+    height: 577px;
+    border: 2px solid #fff;
+    background: url(../images/coffee.png);
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+    margin-top: 149%;
+}
+}
+
