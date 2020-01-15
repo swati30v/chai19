@@ -214,6 +214,12 @@ h1.colored-text {
     padding-top: 76px;
     padding-left: 236px;
 }
+h1.colored-text1{
+    color: #63c52c;
+    font-family: 'Kaushan Script', cursive;
+    padding-top: 76px;
+    padding-left: 236px;
+}
 .Brand {
     font-family: 'Kaushan Script', cursive;
     
@@ -249,7 +255,7 @@ p.head3 {
     padding-top:8%;
 }
 .powred-img {
-    margin: 38px 0px 0px 0px;
+    margin: 22px 0px 0px 0px;
 }
 
 @media (min-width: 768px) {
@@ -286,9 +292,14 @@ h1.colored-text {
     color: #63c52c;
     font-family: 'Kaushan Script', cursive;
     padding-top: 32px;
-    padding-left: 0px;
+     padding-left: 0%;
 }
-
+h1.colored-text1 {
+    color: #63c52c;
+    font-family: 'Kaushan Script', cursive;
+    padding-top: 76px;
+    padding-left: 27%;
+}
 h4.head-1 {
     font-family: 'Pacifico', cursive;
     font-size: 41px;
@@ -342,7 +353,7 @@ button.btn-diffr {
 }
 .social-icons {
     padding-top: 74px;
-    padding-left: 3px;
+    padding-left: 46px;
 }
 h4.head12 {
     font-family: 'Pacifico', cursive;
@@ -368,7 +379,7 @@ section.menu3 {
     -moz-box-shadow: 10px 10px 5px #ccc;
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;
-    margin-top: 149%;
+    margin-top: 139%;
 }
 }
 
